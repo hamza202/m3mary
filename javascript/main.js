@@ -486,16 +486,16 @@
         $('.flat-testimonials-slider').each(function(){
             $(this).children('#flat-testimonials-carousel').flexslider({
                 animation: "slide",
-                controlNav: false,
+                controlNav: true,
                 animationLoop: false,
-                slideshow: false,
+                slideshow: true,
                 itemWidth: 70,
                 itemMargin: 10,
                 asNavFor: $(this).children('#flat-testimonials-flexslider')
             });
             $(this).children('#flat-testimonials-flexslider').flexslider({
                 animation: "slide",
-                controlNav: false,
+                controlNav: true,
                 animationLoop: false,
                 slideshow: false,                
                 sync: $(this).children('#flat-testimonials-carousel'),
@@ -511,8 +511,8 @@
                 $(this).find('.flat-testimonials').owlCarousel({
                     loop: true,
                     margin: 30,
-                    nav: $(this).find('.flat-testimonials').data('nav'),
-                    dots: $(this).find('.flat-testimonials').data('dots'),                     
+                    nav: true,
+                    dots: false,
                     autoplay: $(this).find('.flat-testimonials').data('auto'),                    
                     responsive:{
                         0:{

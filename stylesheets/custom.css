@@ -253,6 +253,58 @@ footer{
 .project .flat-row.portfolio-style2{
     background: transparent !important;
 }
+.project ul.portfolio-filter > li a{
+    color: #724a29;
+}
+ul.portfolio-filter > li.active a, ul.portfolio-filter > li a:hover{
+    color: #fff;
+}
+.single-service-list-widget ul {
+    background: #F8F8F8;
+    padding: 9px;
+    border: 1px solid #F1F1F1;
+}
+.single-sidebar-widget .single-service-list-widget ul li a {
+    font-weight: 400;
+    color: #383838;
+    display: block;
+    line-height: 56px;
+    border-bottom: 1px solid #E6E6E6;
+    position: relative;
+    background: #fff;
+    padding-right: 16px;
+    text-transform: uppercase;
+    font-size: 14px;
+    text-decoration: none;
+    border-right: 4px solid transparent !important;
+    -webkit-transition: all .4s ease;
+    transition: all .4s ease;
+    font-weight: bold;
+}
+.single-sidebar-widget .single-service-list-widget ul li.active a {
+    border-right-color: #724a29 !important;
+    color: #403C56;
+    font-weight: bold;
+}
+.single-service-list-widget ul li a:after {
+    content: "\f104";
+    font-family: FontAwesome;
+    color: #C8C8C8;
+    font-size: 14px;
+    position: absolute;
+    left: 20px;
+}
+.tabs{
+    padding: 80px 0;
+}
+.tabs h2{
+    font-size: 25px;
+}
+
+.tabs p{
+    padding-top: 20px;
+    font-size: 16px;
+}
 @media (min-width: 888px) {
     #mainnav > ul > li > a,
     #mainnav > ul > li:last-child > a{
@@ -270,4 +322,220 @@ footer{
     .under-slider a{
         margin-right: 50px;
     }
+}
+
+
+
+/*///////*/
+.big-image {
+    position: relative;
+}
+
+.big-image h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    color: #fff;
+    font-size: 4em;
+    font-weight: bold;
+    transform: translate(-50%);
+
+}
+
+/* end header in site about and contact*/
+
+/*  start new site abuot us*/
+
+/* start content header*/
+
+.content-text h1 {
+    font-size: 2em;
+    font-weight: bold;
+    color: black;
+    padding: 15px;
+
+}
+
+/* start  text content*/
+
+.my-h1 {
+    margin-top: 40px;
+}
+
+.bold-text {
+    font-size: 1.5em;
+    color: black;
+    padding: 5px;
+}
+
+.normal-text {
+    padding: 10px;
+}
+
+.my-image {
+    padding: 0;
+    padding: 10px;
+    height: 200px;
+}
+
+.my-image img {
+    background: red;
+    height: 100%;
+    border: 1px solid #fff;
+}
+
+/* end text content*/
+
+/* start slider man image*/
+
+.man-image {
+    width: 220px;
+    height: 250px;
+    padding: 0;
+    margin: 0 auto;
+    background: black;
+    position: relative;
+}
+
+.man-image ul {
+
+    position: absolute;
+    bottom: 10%;
+    display: flex;
+    width: 100%;
+    color: #fff;
+    justify-content: center;
+    opacity: 0;
+}
+
+
+.man-image ul li {
+    width: auto;
+    height: auto;
+    padding: 17px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    word-wrap: break-word;
+    position: relative;
+    margin: 5px;
+    cursor: pointer;
+
+
+}
+
+.man-image ul li i {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+
+}
+
+.man-image img {
+    border: none;
+    height: 100%;
+    width: 100%;
+    opacity: 1;
+
+}
+
+.man-image:hover ul {
+    opacity: 1;
+}
+
+.man-image:hover img {
+    opacity: 0.5;
+}
+
+.man-info {
+    width: 220px;
+    height: auto;
+    margin: 0 auto;
+    background: #333333;
+
+}
+
+.man-info h1 {
+    text-align: center;
+    font-weight: bold;
+    color: #fff;
+    font-size: 1.5em;
+    padding-top: 7px;
+    padding-bottom: 3px;
+}
+
+.man-info p {
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+    font-size: 0.5em;
+}
+
+/* end slider man image*/
+
+/*        end new site abuot us*/
+
+/*              start  new site contact us */
+
+.my-form {
+    margin-bottom: 20px;
+    margin-top: 20px;
+;
+}
+
+.my-form h1 {
+    color: #000;
+    font-size: 2em;
+    padding: 20px 0;
+}
+
+.my-form .name {
+    width: 100%;
+    text-align: right;
+    padding-right: 10px;
+    background: #fff;
+    border: 1px solid #ccc;
+
+}
+
+.my-form textarea {
+    min-width: 100%;
+    height: 200px;
+    padding: 10px;
+    background: #fff;
+    border: 1px solid #ccc;
+    margin-left: 10px;
+}
+
+.cp-contact-us {
+    background: #f8f8f8;
+    padding: 30px;
+    width: 100%;
+    height: auto;
+}
+
+.cp-contact-us ul li {
+    color: #000;
+    font-size: 15px;
+    margin-left: 30px;
+}
+
+.my-form .mybutton {
+    text-align: end
+}
+
+.my-form .submit {
+    background-color: #484848;
+    width: 200px;
+    padding: 20px;
+    font-size: 1.5em;
+    border-radius: 20px;
+    color: #fff;
+    margin-bottom: 10px;
+
+}
+.flat-testimonials .owl-controls{
+    position: relative;
+    top: 60px;
 }

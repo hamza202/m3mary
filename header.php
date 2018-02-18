@@ -4,7 +4,7 @@
             <div class="header-wrap clearfix">
                 <div class="col-md-2">
                     <div id="logo" class="logo">
-                        <a href="index.html" rel="home">
+                        <a href="index.php" rel="home">
                             <img src="img/logo.png" alt="image">
                         </a>
                     </div><!-- /.logo -->
@@ -17,10 +17,10 @@
                         <nav id="mainnav" class="mainnav">
                             <ul class="menu">
                                 <li class="active-link"><a href="index.php">الصفحة الرئيسية</a></li>
-                                <li><a href="about.html">من نحن</a></li>
-                                <li><a href="services.html">المشاريع</a></li>
-                                <li><a href="work.html">الأستشارات الهندسية</a></li>
-                                <li><a href="contact.html">تواصل معنا</a></li>
+                                <li><a href="myabout.php">من نحن</a></li>
+                                <li><a href="project.php">المشاريع</a></li>
+                                <li><a href="tabs.php">الأستشارات الهندسية</a></li>
+                                <li><a href="my-contact.php">تواصل معنا</a></li>
                             </ul><!-- /.menu -->
                         </nav><!-- /.mainnav -->
                     </div><!-- /.nav-wrap -->

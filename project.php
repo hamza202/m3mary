@@ -38,12 +38,6 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="title">اخر المشاريع</h1>
-                </div><!-- /.col-md-12 -->
-            </div>
-
-            <div class="row">
-                <div class="col-md-12">
                     <ul class="portfolio-filter">
                         <li class="active"><a data-filter="*" href="#">كل المشاريع</a></li>
                         <li><a data-filter=".builder" href="#">مشاريع قيد التنفيذ</a></li>
