@@ -237,6 +237,22 @@ footer{
     color: #fff;
     font-size: 20px;
 }
+#mainnav-mobi ul li{
+    text-align: right;
+}
+.parallax h1.title{
+    text-align: center;
+    font-size: 40px;
+    color: #fff;
+}
+.page-title .overlay, .parallax .overlay {
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    filter: alpha(opacity=50);
+    opacity: 0.5;
+}
+.project .flat-row.portfolio-style2{
+    background: transparent !important;
+}
 @media (min-width: 888px) {
     #mainnav > ul > li > a,
     #mainnav > ul > li:last-child > a{

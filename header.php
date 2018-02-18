@@ -25,7 +25,7 @@
                         </nav><!-- /.mainnav -->
                     </div><!-- /.nav-wrap -->
                 </div>
-                <div class="col-md-3">
+                <div class="col-md-3 hidden-xs hidden-sm">
                     <div class="social">
                         <ul class="list-inline">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
