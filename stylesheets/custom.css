@@ -518,7 +518,6 @@ ul.portfolio-filter > li.active a, ul.portfolio-filter > li a:hover{
 .cp-contact-us ul li {
     color: #000;
     font-size: 15px;
-    margin-left: 30px;
 }
 
 .my-form .mybutton {
@@ -526,11 +525,11 @@ ul.portfolio-filter > li.active a, ul.portfolio-filter > li a:hover{
 }
 
 .my-form .submit {
-    background-color: #484848;
+    background-color: #724a29;
     width: 200px;
     padding: 20px;
     font-size: 1.5em;
-    border-radius: 20px;
+    border-radius: 46px;
     color: #fff;
     margin-bottom: 10px;
 

@@ -21,21 +21,20 @@
 -->
     <!-- end Preloader -->
     <!-- start Header -->
-   
-    <section>
-              <section class="big-image">
-          <div class="container-fluid">
-             <div class="row">
-                 <div class="col-12">
-                      <img class="img-fluid" src="images/parallax/bg-parallax1.jpg" alt="">
-                      <h1 >تواصل معنا</h1>
-                 </div>
-             </div>
-          </div>
-      </section>
-    </section>
 
- <!-- end Header -->
+    <div class="page-title parallax parallax1">
+        <div class="overlay"></div>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <h1 class="title">تواصل معنا</h1>
+                </div><!-- /.col-md-12 -->
+            </div><!-- /.row -->
+        </div><!-- /.container -->
+    </div><!-- /.page-title -->
+
+
+    <!-- end Header -->
  
     
         <section class="container my-form">
@@ -57,7 +56,7 @@
                        <div class="col-md-12 col-lg-12 col-sm-12 xol-xs-12">
                            <textarea placeholder="اكتب النص هنا"></textarea>
                        </div>
-                      <div class="col-12 mybutton">
+                      <div class="col-md-12 mybutton">
                           <input class="submit" type="submit"  value="ارسال الان">
                       </div>
                   </form>
@@ -72,13 +71,15 @@
         <section class="cp-contact-us">
             <div class="container-fluid">
                 <div class="row">
-                <div class="col-12 ">
+                <div class="col-md-12 ">
+                    <div class="row">
                    <ul class="list-inline  list-unstyled text-center ">
                                       
-                               <li> <i class="fa fa-home" aria-hidden="true"></i> العنوان:الرياض - شارع الملك فيصل</li>
-                                <li> <i class="fa fa-envelope" aria-hidden="true"></i> INFO@EMAIL.COM</li>
-                                <li> <i class="fa fa-phone" aria-hidden="true"></i> 0096123456789</li>
+                               <li class="col-sm-4"> <i class="fa fa-home" aria-hidden="true"></i> العنوان:الرياض - شارع الملك فيصل</li>
+                                <li class="col-sm-4"> <i class="fa fa-envelope" aria-hidden="true"></i> INFO@EMAIL.COM</li>
+                                <li class="col-sm-4"> <i class="fa fa-phone" aria-hidden="true"></i> 0096123456789</li>
                    </ul>
+                    </div>
                 </div>
             </div>
             </div>
