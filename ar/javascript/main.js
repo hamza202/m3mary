@@ -497,7 +497,7 @@ $(".group2").colorbox({rel:'group2', transition:"fade"});
             $(this).children('#flat-testimonials-carousel').flexslider({
                 animation: "slide",
                 controlNav: true,
-                animationLoop: false,
+                animationLoop: true,
                 slideshow: true,
                 itemWidth: 70,
                 itemMargin: 10,
@@ -505,10 +505,10 @@ $(".group2").colorbox({rel:'group2', transition:"fade"});
             });
             $(this).children('#flat-testimonials-flexslider').flexslider({
                 animation: "slide",
-                controlNav: false,
+                controlNav: true,
                 rtl:true,
-                animationLoop: false,
-                slideshow: false,                
+                animationLoop: true,
+                slideshow: true,
                 sync: $(this).children('#flat-testimonials-carousel'),
                 prevText: '<i class="fa fa-angle-left"></i>',
                 nextText: '<i class="fa fa-angle-right"></i>'

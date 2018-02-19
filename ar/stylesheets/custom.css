@@ -568,7 +568,8 @@ ul.portfolio-filter > li.active a, ul.portfolio-filter > li a:hover{
 }
 .table1 h2,
 .project-location h2,
-.table-second h2{
+.table-second h2,
+.table2 h2{
     background: #724a29;
     display: block;
     color: #fff;
@@ -590,13 +591,15 @@ ul.portfolio-filter > li.active a, ul.portfolio-filter > li a:hover{
     margin-top: 10px;
 }
 .table1 td ,
-.table-second td
+.table-second td,
+.table2 td
 {
     text-align: center;
     border-left:1px solid #cccccc ;
     border-right:1px solid #cccccc ;
 }
-.table-second{
+.table-second,
+.table2{
     border-top:1px solid #cccccc ;
 }
 .table1 td.text-center{
@@ -661,4 +664,23 @@ td.show-td{
 }
 .over-hidden{
     overflow: hidden;
+}
+.one-project-section{
+    padding: 60px 0;
+}
+.project-one-section .flat-testimonials-slider .flex-direction-nav{
+    display: none;
+}
+.flat-testimonials-slider .flex-direction-nav{
+    display: block;
+}
+.flex-direction-nav a:before{
+    content: "\f104";
+    font-family: "FontAwesome";
+    line-height: 35px;
+}
+.flex-direction-nav a.flex-next:before{
+    content: "\f105";
+    font-family: "FontAwesome";
+    line-height: 35px;
 }
