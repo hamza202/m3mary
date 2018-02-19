@@ -684,3 +684,9 @@ td.show-td{
     font-family: "FontAwesome";
     line-height: 35px;
 }
+.consul-img img{
+    height: 120px;
+    margin:  auto;
+    margin-top: 20px;
+
+}

@@ -186,7 +186,7 @@
                             <td>-</td>
                         </tr>
                         <tr class="more">
-                            <td colspan="4"><a href="#">لمزيد من التفاصيل اضغط هنا</a></td>
+                            <td colspan="4"><a href="read-more.php">لمزيد من التفاصيل اضغط هنا</a></td>
                         </tr>
                         <tr>
                             <td colspan="4">
@@ -238,7 +238,7 @@
                             <td>-</td>
                         </tr>
                         <tr class="more">
-                            <td colspan="4"><a href="#">لمزيد من التفاصيل اضغط هنا</a></td>
+                            <td colspan="4"><a href="read-more.php">لمزيد من التفاصيل اضغط هنا</a></td>
                         </tr>
                         <tr>
                             <td colspan="4">
@@ -290,7 +290,7 @@
                             <td>-</td>
                         </tr>
                         <tr class="more">
-                            <td colspan="4"><a href="#">لمزيد من التفاصيل اضغط هنا</a></td>
+                            <td colspan="4"><a href="read-more.php">لمزيد من التفاصيل اضغط هنا</a></td>
                         </tr>
                         <tr>
                             <td colspan="4">
@@ -342,15 +342,15 @@
                             <td>-</td>
                         </tr>
                         <tr class="more">
-                            <td colspan="4"><a href="#">لمزيد من التفاصيل اضغط هنا</a></td>
+                            <td colspan="4"><a href="read-more.php">لمزيد من التفاصيل اضغط هنا</a></td>
                         </tr>
                         <tr>
                             <td colspan="4">
                                 <ul class='kwicks kwicks-horizontal'>
                                     <li><a class="group2" href="images/1.png" style="background: url('images/1.png')"></a></li>
-                                    <li><a class="group2" href="images/2.png" href="#" style="background: url('images/2.png')"></a></li>
-                                    <li><a class="group2" href="images/3.png" href="#" style="background: url('images/3.png')"></a></li>
-                                    <li><a class="group2" href="images/4.png" href="#" style="background: url('images/4.png')"></a></li>
+                                    <li><a class="group2" href="images/2.png" style="background: url('images/2.png')"></a></li>
+                                    <li><a class="group2" href="images/3.png" style="background: url('images/3.png')"></a></li>
+                                    <li><a class="group2" href="images/4.png" style="background: url('images/4.png')"></a></li>
                                 </ul>
                             </td>
                         </tr>
