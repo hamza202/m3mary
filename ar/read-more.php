@@ -91,9 +91,19 @@
                                <td>الدهانات</td>
                            </tr>
                            <tr>
+                               <td>-</td>
+                               <td>-</td>
+                               <td>-</td>
+                           </tr>
+                           <tr>
                                <td>الدرابزين</td>
                                <td>الألمنيوم</td>
                                <td>ارضيات خارجية</td>
+                           </tr>
+                           <tr>
+                               <td>-</td>
+                               <td>-</td>
+                               <td> -</td>
                            </tr>
                            <tr>
                                <td>ارضيات داخلية</td>
@@ -101,15 +111,31 @@
                                <td>الديكورات</td>
                            </tr>
                            <tr>
+                               <td>-</td>
+                               <td>-</td>
+                               <td>-</td>
+                           </tr>
+                           <tr>
                                <td>الإضاءة</td>
                                <td>التكييف</td>
                                <td>ملاحظات</td>
                            </tr>
                            <tr>
+                               <td>-</td>
+                               <td>-</td>
+                               <td>-</td>
+                           </tr>
+                           <tr>
                                <td colspan="3">الدور الأرضي</td>
                            </tr>
                            <tr>
+                               <td colspan="3">-</td>
+                           </tr>
+                           <tr>
                                <td colspan="3">الدور الأول</td>
+                           </tr>
+                           <tr>
+                               <td colspan="3">-</td>
                            </tr>
                        </table>
                    </div>
