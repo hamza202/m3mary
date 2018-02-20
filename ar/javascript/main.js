@@ -755,7 +755,7 @@ $(".group2").colorbox({rel:'group2', transition:"fade"});
       var retina = window.devicePixelRatio > 1 ? true : false;
 
         if(retina) {
-            $('.header .logo').find('img').attr({src:'../img/logo.png',width:'210',height:'88'});
+            $('.header .logo').find('img').attr({src:'img/logo.png',width:'210',height:'88'});
         }
     };    
     

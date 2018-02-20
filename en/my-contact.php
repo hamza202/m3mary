@@ -27,7 +27,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
-                    <h1 class="title">تواصل معنا</h1>
+                    <h1 class="title">Contact Us</h1>
                 </div><!-- /.col-md-12 -->
             </div><!-- /.row -->
         </div><!-- /.container -->
@@ -42,22 +42,22 @@
                <div class=" col-xl-6 col-lg-6 col-md-12 col-xs-12 col-sm-12">
                   <div class="row">
                   <form action="" method="">
-                        <div class="col-12">
-                            <h1 class="text-start">أرسل لنا ماذا تريد</h1>
+                        <div class="col-md-12">
+                            <h1 class="text-start">Contact Us</h1>
                         </div>
-                       <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                        <input class="name"  type="text" placeholder="اكتب اسمك">
+                       <div class="col-md-6 col-sm-12 col-xs-12">
+                        <input class="name"  type="text" placeholder="Name">
                        </div>
                        
-                       <div class="col-xl-6 col-lg-6 col-md-6 col-sm-12 col-xs-12">
-                        <input class="name"  type="text" placeholder="اكتب ايميلك هنا">
+                       <div class="col-md-6 col-sm-12 col-xs-12">
+                        <input class="name"  type="text" placeholder="Email">
                        </div>
 
-                       <div class="col-md-12 col-lg-12 col-sm-12 xol-xs-12">
-                           <textarea placeholder="اكتب النص هنا"></textarea>
+                       <div class="col-md-12 col-lg-12 col-sm-12">
+                           <textarea placeholder="Message"></textarea>
                        </div>
                       <div class="col-md-12 mybutton">
-                          <input class="submit" type="submit"  value="ارسال الان">
+                          <input class="submit" type="submit"  value="Send">
                       </div>
                   </form>
                    </div>
@@ -75,7 +75,7 @@
                     <div class="row">
                    <ul class="list-inline  list-unstyled text-center ">
                                       
-                               <li class="col-sm-4"> <i class="fa fa-home" aria-hidden="true"></i> العنوان:الرياض - شارع الملك فيصل</li>
+                               <li class="col-sm-4"> <i class="fa fa-home" aria-hidden="true"></i> Address: Riyadh - King Faisal Street</li>
                                 <li class="col-sm-4"> <i class="fa fa-envelope" aria-hidden="true"></i> INFO@EMAIL.COM</li>
                                 <li class="col-sm-4"> <i class="fa fa-phone" aria-hidden="true"></i> 0096123456789</li>
                    </ul>

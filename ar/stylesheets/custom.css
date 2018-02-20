@@ -684,9 +684,18 @@ td.show-td{
     font-family: "FontAwesome";
     line-height: 35px;
 }
-.consul-img img{
+.consul-img img {
     height: 120px;
-    margin:  auto;
+    margin: auto;
     margin-top: 20px;
+}
 
+@media (max-width: 420px){
+    #logo img{
+        width: 130px;
+        margin-top: 10px;
+    }
+}
+.what-we-do .style5 .list-inline-item a{
+    color: #fff;
 }

@@ -9,13 +9,13 @@
                 </div>
                 <div class="col-md-4">
                     <ul class="footer-info">
-                        <li class="address">المملكة العربية السعودية - الرياض</li>
+                        <li class="address">Saudi Arabia - Riyadh</li>
                         <li class="phone">00966123456789</li>
                         <li class="email">info@admin.com</li>
                     </ul>
                 </div>
                 <div class="col-md-4">
-                    <p>تابعنا على مواقع التواصل التالية</p>
+                    <p>Follow us on social</p>
                     <div class="social">
                         <ul class="list-inline">
                             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -37,7 +37,7 @@
         <div class="row">
             <div class="col-md-12">
                 <div class="copyright">
-                    <p>©  دار المبتكرون 2018. جميع الحقوق محفوطة.
+                    <p>©  دار المبتكرون 2018. All Rights Reserved.
                     </p>
                 </div>
             </div><!-- /.col-md-6 -->
@@ -55,6 +55,9 @@
 
 <!-- Javascript -->
 <script type="text/javascript" src="javascript/jquery.min.js"></script>
+<script type="text/javascript" src="javascript/jquery.easing.js"></script>
+<script type="text/javascript" src="javascript/jquery.kwicks.js"></script>
+<script type="text/javascript" src="javascript/jquery.colorbox.js"></script>
 <script type="text/javascript" src="javascript/bootstrap.min.js"></script>
 <script type="text/javascript" src="javascript/jquery.easing.js"></script>
 <script type="text/javascript" src="javascript/imagesloaded.min.js"></script>
